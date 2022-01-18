@@ -10,3 +10,7 @@ This project requires GPU acceleration to run efficiently. Support is available 
 - NumPy
 - TensorFlow 2.x
 - Keras 2.x
+
+# Future Improvements
+
+Adding (multi-head) attention to the decoder should improve the training and test results.

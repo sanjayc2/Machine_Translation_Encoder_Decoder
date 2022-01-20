@@ -1,9 +1,5 @@
 # Introduction
-In this notebook, as part of a Udacity project, I built an encoder-decoder neural network that functions as part of an end-to-end machine translation pipeline. The completed pipeline will accept English text as input and return the French translation.
-
-# Setup
-
-This project requires GPU acceleration to run efficiently. Support is available to use either of the following two methods for accessing GPU-enabled cloud computing resources.
+In this notebook, as part of a Udacity project, I built an encoder-decoder neural network that functions as part of an end-to-end machine translation pipeline. The completed pipeline will accept English text as input and return the French translation. The code was run on my personal gaming laptop (on a GPU)
 
 ## Install
 - Python 3

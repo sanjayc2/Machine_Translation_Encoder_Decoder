@@ -11,4 +11,4 @@ and return the French translation. The code used GPU acceleration and was run on
 
 # Future Improvements
 
-Need to add an evaluation metric (like BLUE score) to the code. Adding an attention mechanism (e.g. Luong et al) to the decoder (alternatively, using a Transformer model like BERT) will improve the training and test results.
+Need to add an evaluation metric (like BLEU score) to the code. Adding an attention mechanism (e.g. Luong et al) to the decoder (alternatively, using a Transformer model like BERT) will improve the training and test results.

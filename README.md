@@ -11,4 +11,4 @@ and return the French translation. The code used GPU acceleration and was run on
 
 # Future Improvements
 
-Adding (multi-head) attention to the decoder should improve the training and test results.
+Adding an attention mechanism (e.g. Luong et al) to the decoder will improve the training and test results. 

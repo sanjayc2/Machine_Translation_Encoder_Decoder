@@ -1,7 +1,6 @@
 # Machine_Translation_Encoder_Decoder
-This is a repository for an end-to-end Machine Translation project, which uses an encoder-decoder neural network trained on a small data. As part of a Udacity project, 
-I built an encoder-decoder neural network that functions as part of an end-to-end machine translation pipeline. The completed pipeline will accept English text as input 
-and return the French translation. The code used GPU acceleration and was run on my personal gaming laptop.
+This is a repository for an end-to-end Machine Translation project, which uses a neural network trained on a small dataset of English and French text. Written as part of a Udacity project, the encoder-decoder functions as part of an end-to-end machine translation pipeline. The completed pipeline will accept English text as input 
+and return the French translation. A data processing pipeline is set up, before the model is called. The model is built using TensorFlow/Keras, and uses GPU acceleration for training.
 
 ## Install
 - Python 3

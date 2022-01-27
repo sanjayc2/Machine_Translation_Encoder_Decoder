@@ -12,4 +12,4 @@ The unique features of the model are (a) the use of an embedding layer, which im
 
 # Future Improvements
 
-Need to add an evaluation metric (like BLEU score) to the code. Adding an attention mechanism (e.g. Luong et al) to the decoder will further improve the results.
+Need to add an evaluation metric (like BLEU score) to the code. Adding an attention mechanism (e.g. multi-head attention using a scaled dot-product attention) to the decoder will further improve the results. The current state-of-the-art for NMT is the Transformer, which would need to be trained on a much larger dataset.
